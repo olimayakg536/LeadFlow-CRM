@@ -1,0 +1,16 @@
+{
+  "name": "leadflow-crm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LeadFlow - Simple Client Lead Manager",
+  "scripts": {
+    "build": "npm --prefix client run build",
+    "install:all": "npm --prefix client install && npm --prefix server install",
+    "client": "npm --prefix client run dev",
+    "server": "npm --prefix server start"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
