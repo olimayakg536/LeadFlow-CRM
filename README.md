@@ -161,3 +161,7 @@ PATCH  /api/leads/:id/status   Change only the status
 
 - **"Cannot connect to the server"** – the backend is not running. Start it with `npm start` inside the `server` folder.
 - **Port already in use** – close the other program using port 5000 or 5173.
+
+## 🌐 Live Demo
+
+**[Click here to visit the live website](leadflow-crm-kith-8ucixftw2-portifolio17.vercel.app)**
