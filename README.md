@@ -164,4 +164,4 @@ PATCH  /api/leads/:id/status   Change only the status
 
 ## 🌐 Live Demo
 
-**[Click here to visit the live website](https//:leadflow-crm-kith-b6ciw1hbi-portifolio17.vercel.app)**
+**[Click here to visit the live website](https://leadflow-crm-kith.vercel.app/)**
